@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Bunty Saini
 
-<!--
-**sainibunty2309-del/sainibunty2309-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Science student | Data Analyst | Working on Machine Learning  
 
-Here are some ideas to get you started:
+I am passionate about turning raw data into meaningful insights and building machine learning solutions for real-world problems.  
+Currently focused on improving my skills in data analysis, machine learning, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Machine Learning
+- Data Visualization
+- Git & GitHub
+- Statistics
+
+---
+
+## 📊 Projects
+🔹 Customer Churn Prediction  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Feature Engineering
+- Model Deployment
+---
+
+### ⚡ Fun Fact
+I enjoy solving business problems using data-driven approaches.
