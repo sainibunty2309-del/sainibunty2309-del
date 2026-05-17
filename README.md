@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bunty Saini
 
-🎯 Data Science student | Data Analyst | Working on Machine Learning  
+🎯 Data Science student | Data Analyst | Working on Machine Learning projects
 
 I am passionate about turning raw data into meaningful insights and building machine learning solutions for real-world problems.  
 Currently focused on improving my skills in data analysis, machine learning, and data visualization.
